@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JOSER1CARDO
-- 👀 I’m interested in oportunidades de estagios 
-- 🌱 I’m currently learning  varios mini cursos 
 - 💞️ I’m looking to collaborate on desenvolvimentos de sistemas
 - 📫 email jose_dev@outlook.com
 
